@@ -1,0 +1,111 @@
+{
+    "resource" : "MyResources.zip",
+    "splashscreens" : {
+        "ios" : [{
+            "resource" : "/splashscreens/ios/320x480/splashscreen.png",
+            "width" : "320",
+            "height" : "480"
+        },
+        {
+            "resource" : "/splashscreens/ios/640x1136/splashscreen.png",
+            "width" : "640",
+            "height" : "1136"
+        },
+        {
+            "resource" : "/splashscreens/ios/640x960/splashscreen.png",
+            "width" : "640",
+            "height" : "960"
+        },
+        {
+            "resource" : "/splashscreens/ios/750x1334/splashscreen.png",
+            "width" : "750",
+            "height" : "1334"
+        },
+        {
+            "resource" : "/splashscreens/ios/1242x2208/splashscreen.png",
+            "width" : "1242",
+            "height" : "2208"
+        },
+        {
+            "resource" : "/splashscreens/ios/2208x1242/splashscreen.png",
+            "width" : "2208",
+            "height" : "1242"
+        },
+        {
+            "resource" : "/splashscreens/ios/768x1024/splashscreen.png",
+            "width" : "768",
+            "height" : "1024"
+        },
+        {
+            "resource" : "/splashscreens/ios/1024x768/splashscreen.png",
+            "width" : "1024",
+            "height" : "768"
+        },
+        {
+            "resource" : "/splashscreens/ios/1536x2048/splashscreen.png",
+            "width" : "1536",
+            "height" : "2048"
+        },
+        {
+            "resource" : "/splashscreens/ios/2048x1536/splashscreen.png",
+            "width" : "2048",
+            "height" : "1536"
+        }],
+        "android" : [{
+            "resource" : "/splashscreens/android/drawable-port-ldpi/splashscreen.png",
+            "density" : "port-ldpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-port-mdpi/splashscreen.png",
+            "density" : "port-mdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-port-hdpi/splashscreen.png",
+            "density" : "port-hdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-port-xhdpi/splashscreen.png",
+            "density" : "port-xhdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-port-xxhdpi/splashscreen.png",
+            "density" : "port-xxhdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-port-xxxhdpi/splashscreen.png",
+            "density" : "port-xxxhdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-land-ldpi/splashscreen.png",
+            "density" : "land-ldpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-land-mdpi/splashscreen.png",
+            "density" : "land-mdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-land-hdpi/splashscreen.png",
+            "density" : "land-hdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-land-xhdpi/splashscreen.png",
+            "density" : "land-xhdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-land-xxhdpi/splashscreen.png",
+            "density" : "land-xxhdpi"
+        },
+        {
+            "resource" : "/splashscreens/android/drawable-land-xxxhdpi/splashscreen.png",
+            "density" : "land-xxxhdpi"
+        }]
+    },
+    "preferences" : {
+        "global" : [
+                {
+                    "name": "SplashScreenDelay",
+                    "value" : "30000"
+                }
+            ]
+    }
+}
